@@ -216,10 +216,10 @@ echo "Z3_DIR=$Z3_DIR"
 ########
 if [[ $1 == 'debug' ]]
 then
-    # rm -rf ./'Debug-build'
-    # mkdir ./'Debug-build'
-    cd ./'Debug-build'
-    cmake -D CMAKE_BUILD_TYPE:STRING=Debug ../
+    rm -rf ./'Debug-build'
+    mkdir ./'Debug-build'
+    # cd ./'Debug-build'
+    cmake -D CMAKE_BUILD_TYPE:STRING=Debug 
 else
     rm -rf ./'Release-build'
     mkdir ./'Release-build'
@@ -231,13 +231,13 @@ make -j ${jobs}
 ########
 # Set up environment variables of SVF
 ########
-cd ../
-if [[ $1 == 'debug' ]]
-then
-  . ./setup.sh debug
-else
-  . ./setup.sh
-fi
+# cd ../
+# if [[ $1 == 'debug' ]]
+# then
+#   . ./setup.sh debug
+# else
+#   . ./setup.sh
+# fi
 
 #########
 # Optionally, you can also specify a CXX_COMPILER and your $LLVM_HOME for your build

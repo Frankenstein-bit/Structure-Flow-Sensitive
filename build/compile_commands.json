@@ -1,0 +1,527 @@
+[
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/CFL/CFGNormalizer.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/CFL/CFGNormalizer.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/CFL/CFGNormalizer.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/CFL/CFLAlias.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/CFL/CFLAlias.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/CFL/CFLAlias.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/CFL/CFLGrammar.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/CFL/CFLGrammar.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/CFL/CFLGrammar.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/CFL/CFLGraphBuilder.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/CFL/CFLGraphBuilder.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/CFL/CFLGraphBuilder.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/CFL/CFLSolver.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/CFL/CFLSolver.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/CFL/CFLSolver.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/CFL/GrammarBuilder.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/CFL/GrammarBuilder.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/CFL/GrammarBuilder.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/DDA/ContextDDA.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/DDA/ContextDDA.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/DDA/ContextDDA.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/DDA/DDAClient.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/DDA/DDAClient.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/DDA/DDAClient.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/DDA/DDAPass.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/DDA/DDAPass.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/DDA/DDAPass.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/DDA/DDAStat.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/DDA/DDAStat.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/DDA/DDAStat.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/DDA/FlowDDA.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/DDA/FlowDDA.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/DDA/FlowDDA.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/FastCluster/fastcluster.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/FastCluster/fastcluster.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/FastCluster/fastcluster.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/Graphs/CFLGraph.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/Graphs/CFLGraph.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/Graphs/CFLGraph.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/Graphs/CHG.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/Graphs/CHG.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/Graphs/CHG.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/Graphs/ConsG.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/Graphs/ConsG.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/Graphs/ConsG.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/Graphs/ICFG.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/Graphs/ICFG.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/Graphs/ICFG.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/Graphs/IRGraph.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/Graphs/IRGraph.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/Graphs/IRGraph.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/Graphs/OfflineConsG.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/Graphs/OfflineConsG.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/Graphs/OfflineConsG.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/Graphs/PTACallGraph.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/Graphs/PTACallGraph.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/Graphs/PTACallGraph.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/Graphs/SVFG.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/Graphs/SVFG.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/Graphs/SVFG.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/Graphs/SVFGOPT.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/Graphs/SVFGOPT.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/Graphs/SVFGOPT.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/Graphs/SVFGReadWrite.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/Graphs/SVFGReadWrite.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/Graphs/SVFGReadWrite.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/Graphs/SVFGStat.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/Graphs/SVFGStat.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/Graphs/SVFGStat.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/Graphs/ThreadCallGraph.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/Graphs/ThreadCallGraph.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/Graphs/ThreadCallGraph.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/Graphs/VFG.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/Graphs/VFG.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/Graphs/VFG.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/MSSA/MemPartition.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/MSSA/MemPartition.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/MSSA/MemPartition.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/MSSA/MemRegion.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/MSSA/MemRegion.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/MSSA/MemRegion.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/MSSA/MemSSA.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/MSSA/MemSSA.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/MSSA/MemSSA.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/MSSA/SVFGBuilder.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/MSSA/SVFGBuilder.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/MSSA/SVFGBuilder.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/MTA/FSMPTA.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/MTA/FSMPTA.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/MTA/FSMPTA.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/MTA/LockAnalysis.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/MTA/LockAnalysis.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/MTA/LockAnalysis.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/MTA/LockResultValidator.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/MTA/LockResultValidator.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/MTA/LockResultValidator.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/MTA/MHP.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/MTA/MHP.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/MTA/MHP.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/MTA/MTA.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/MTA/MTA.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/MTA/MTA.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/MTA/MTAAnnotator.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/MTA/MTAAnnotator.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/MTA/MTAAnnotator.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/MTA/MTAResultValidator.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/MTA/MTAResultValidator.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/MTA/MTAResultValidator.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/MTA/MTAStat.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/MTA/MTAStat.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/MTA/MTAStat.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/MTA/PCG.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/MTA/PCG.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/MTA/PCG.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/MTA/TCT.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/MTA/TCT.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/MTA/TCT.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/MemoryModel/LocationSet.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/MemoryModel/LocationSet.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/MemoryModel/LocationSet.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/MemoryModel/PAGBuilderFromFile.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/MemoryModel/PAGBuilderFromFile.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/MemoryModel/PAGBuilderFromFile.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/MemoryModel/PointerAnalysis.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/MemoryModel/PointerAnalysis.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/MemoryModel/PointerAnalysis.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/MemoryModel/PointerAnalysisImpl.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/MemoryModel/PointerAnalysisImpl.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/MemoryModel/PointerAnalysisImpl.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/MemoryModel/PointsTo.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/MemoryModel/PointsTo.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/MemoryModel/PointsTo.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/MemoryModel/SVFIR.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/MemoryModel/SVFIR.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/MemoryModel/SVFIR.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/MemoryModel/SVFStatements.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/MemoryModel/SVFStatements.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/MemoryModel/SVFStatements.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/MemoryModel/SVFVariables.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/MemoryModel/SVFVariables.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/MemoryModel/SVFVariables.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/MemoryModel/SymbolTableInfo.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/MemoryModel/SymbolTableInfo.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/MemoryModel/SymbolTableInfo.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/SABER/DoubleFreeChecker.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/SABER/DoubleFreeChecker.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/SABER/DoubleFreeChecker.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/SABER/FileChecker.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/SABER/FileChecker.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/SABER/FileChecker.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/SABER/LeakChecker.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/SABER/LeakChecker.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/SABER/LeakChecker.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/SABER/PathCondAllocator.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/SABER/PathCondAllocator.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/SABER/PathCondAllocator.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/SABER/ProgSlice.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/SABER/ProgSlice.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/SABER/ProgSlice.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/SABER/SaberAnnotator.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/SABER/SaberAnnotator.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/SABER/SaberAnnotator.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/SABER/SaberCheckerAPI.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/SABER/SaberCheckerAPI.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/SABER/SaberCheckerAPI.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/SABER/SaberSVFGBuilder.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/SABER/SaberSVFGBuilder.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/SABER/SaberSVFGBuilder.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/SABER/SrcSnkDDA.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/SABER/SrcSnkDDA.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/SABER/SrcSnkDDA.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/SVF-FE/BreakConstantExpr.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/SVF-FE/BreakConstantExpr.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/SVF-FE/BreakConstantExpr.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/SVF-FE/CHGBuilder.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/SVF-FE/CHGBuilder.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/SVF-FE/CHGBuilder.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/SVF-FE/CPPUtil.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/SVF-FE/CPPUtil.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/SVF-FE/CPPUtil.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/SVF-FE/CallGraphBuilder.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/SVF-FE/CallGraphBuilder.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/SVF-FE/CallGraphBuilder.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/SVF-FE/DCHG.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/SVF-FE/DCHG.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/SVF-FE/DCHG.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/SVF-FE/DataFlowUtil.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/SVF-FE/DataFlowUtil.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/SVF-FE/DataFlowUtil.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/SVF-FE/Graph2Json.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/SVF-FE/Graph2Json.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/SVF-FE/Graph2Json.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/SVF-FE/ICFGBuilder.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/SVF-FE/ICFGBuilder.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/SVF-FE/ICFGBuilder.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/SVF-FE/LLVMLoopAnalysis.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/SVF-FE/LLVMLoopAnalysis.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/SVF-FE/LLVMLoopAnalysis.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/SVF-FE/LLVMModule.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/SVF-FE/LLVMModule.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/SVF-FE/LLVMModule.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/SVF-FE/LLVMUtil.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/SVF-FE/LLVMUtil.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/SVF-FE/LLVMUtil.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/SVF-FE/SVFIRBuilder.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/SVF-FE/SVFIRBuilder.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/SVF-FE/SVFIRBuilder.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/SVF-FE/SymbolTableBuilder.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/SVF-FE/SymbolTableBuilder.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/SVF-FE/SymbolTableBuilder.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/Util/BDDExpr.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/Util/BDDExpr.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/Util/BDDExpr.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/Util/BitVector.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/Util/BitVector.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/Util/BitVector.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/Util/CoreBitVector.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/Util/CoreBitVector.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/Util/CoreBitVector.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/Util/ExeState.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/Util/ExeState.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/Util/ExeState.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/Util/ExtAPI.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/Util/ExtAPI.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/Util/ExtAPI.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/Util/NodeIDAllocator.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/Util/NodeIDAllocator.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/Util/NodeIDAllocator.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/Util/Options.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/Util/Options.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/Util/Options.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/Util/PTAStat.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/Util/PTAStat.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/Util/PTAStat.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/Util/SVFModule.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/Util/SVFModule.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/Util/SVFModule.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/Util/SVFUtil.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/Util/SVFUtil.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/Util/SVFUtil.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/Util/ThreadAPI.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/Util/ThreadAPI.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/Util/ThreadAPI.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/Util/cJSON.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/Util/cJSON.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/Util/cJSON.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/WPA/Andersen.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/WPA/Andersen.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/WPA/Andersen.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/WPA/AndersenHCD.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/WPA/AndersenHCD.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/WPA/AndersenHCD.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/WPA/AndersenHLCD.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/WPA/AndersenHLCD.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/WPA/AndersenHLCD.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/WPA/AndersenLCD.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/WPA/AndersenLCD.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/WPA/AndersenLCD.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/WPA/AndersenSCD.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/WPA/AndersenSCD.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/WPA/AndersenSCD.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/WPA/AndersenSFR.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/WPA/AndersenSFR.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/WPA/AndersenSFR.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/WPA/AndersenStat.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/WPA/AndersenStat.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/WPA/AndersenStat.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/WPA/AndersenWaveDiff.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/WPA/AndersenWaveDiff.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/WPA/AndersenWaveDiff.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/WPA/CSC.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/WPA/CSC.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/WPA/CSC.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/WPA/FlowSensitive.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/WPA/FlowSensitive.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/WPA/FlowSensitive.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/WPA/FlowSensitiveStat.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/WPA/FlowSensitiveStat.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/WPA/FlowSensitiveStat.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/WPA/FlowSensitiveStruct.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/WPA/FlowSensitiveStruct.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/WPA/FlowSensitiveStruct.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/WPA/Steensgaard.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/WPA/Steensgaard.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/WPA/Steensgaard.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/WPA/TypeAnalysis.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/WPA/TypeAnalysis.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/WPA/TypeAnalysis.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/WPA/VersionedFlowSensitive.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/WPA/VersionedFlowSensitive.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/WPA/VersionedFlowSensitive.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/WPA/VersionedFlowSensitiveStat.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/WPA/VersionedFlowSensitiveStat.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/WPA/VersionedFlowSensitiveStat.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++ -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS  -fno-exceptions -fno-rtti -std=gnu++14 -o CMakeFiles/Svf.dir/WPA/WPAPass.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/WPA/WPAPass.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/WPA/WPAPass.cpp"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib/CUDD",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Wno-all -Wno-extra -Wno-format -Wno-int-to-pointer-cast -Wno-pointer-to-int-cast -DHAVE_IEEE_754 -DSIZEOF_VOID_P=8 -DSIZEOF_LONG=8 -o CMakeFiles/Cudd.dir/epd.c.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/CUDD/epd.c",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/CUDD/epd.c"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib/CUDD",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Wno-all -Wno-extra -Wno-format -Wno-int-to-pointer-cast -Wno-pointer-to-int-cast -DHAVE_IEEE_754 -DSIZEOF_VOID_P=8 -DSIZEOF_LONG=8 -o CMakeFiles/Cudd.dir/st.c.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/CUDD/st.c",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/CUDD/st.c"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib/CUDD",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Wno-all -Wno-extra -Wno-format -Wno-int-to-pointer-cast -Wno-pointer-to-int-cast -DHAVE_IEEE_754 -DSIZEOF_VOID_P=8 -DSIZEOF_LONG=8 -o CMakeFiles/Cudd.dir/util.c.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/CUDD/util.c",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/CUDD/util.c"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib/CUDD",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Wno-all -Wno-extra -Wno-format -Wno-int-to-pointer-cast -Wno-pointer-to-int-cast -DHAVE_IEEE_754 -DSIZEOF_VOID_P=8 -DSIZEOF_LONG=8 -o CMakeFiles/Cudd.dir/mtr.c.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/CUDD/mtr.c",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/CUDD/mtr.c"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/lib/CUDD",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang -DGTEST_HAS_RTTI=0 -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -Wno-all -Wno-extra -Wno-format -Wno-int-to-pointer-cast -Wno-pointer-to-int-cast -DHAVE_IEEE_754 -DSIZEOF_VOID_P=8 -DSIZEOF_LONG=8 -o CMakeFiles/Cudd.dir/cuddInt.c.o -c /home/f/SVFtype/SVF-SVF-2.5/lib/CUDD/cuddInt.c",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/lib/CUDD/cuddInt.c"
+},
+{
+  "directory": "/home/f/SVFtype/SVF-SVF-2.5/build/tools/WPA",
+  "command": "/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/clang++  -I/home/f/SVFtype/SVF-SVF-2.5/include -I/home/f/llvmlib/z3-4.8.8-x64-ubuntu-16.04/include -isystem /home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/include  -fPIC -Werror -Wall -O0 -fno-rtti -g   -D_GNU_SOURCE -D__STDC_CONSTANT_MACROS -D__STDC_FORMAT_MACROS -D__STDC_LIMIT_MACROS -std=gnu++14 -o CMakeFiles/wpa.dir/wpa.cpp.o -c /home/f/SVFtype/SVF-SVF-2.5/tools/WPA/wpa.cpp",
+  "file": "/home/f/SVFtype/SVF-SVF-2.5/tools/WPA/wpa.cpp"
+}
+]

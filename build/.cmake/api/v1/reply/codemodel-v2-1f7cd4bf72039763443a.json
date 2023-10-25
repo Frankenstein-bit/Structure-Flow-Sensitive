@@ -1,0 +1,214 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1,
+						3
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-071124f799001c166af1.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13.4"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						2,
+						7,
+						8
+					]
+				},
+				{
+					"build" : "lib",
+					"childIndexes" : 
+					[
+						2
+					],
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-lib-Debug-f6d1a88c03bf2ac91860.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13.4"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "lib",
+					"targetIndexes" : 
+					[
+						1,
+						5,
+						6
+					]
+				},
+				{
+					"build" : "lib/CUDD",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-lib.CUDD-Debug-5d3270ceff6d276e60ec.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13.4"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "lib/CUDD",
+					"targetIndexes" : 
+					[
+						0,
+						3,
+						4
+					]
+				},
+				{
+					"build" : "tools",
+					"childIndexes" : 
+					[
+						4
+					],
+					"jsonFile" : "directory-tools-Debug-f9645b0170a45a75eff2.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13.4"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "tools"
+				},
+				{
+					"build" : "tools/WPA",
+					"jsonFile" : "directory-tools.WPA-Debug-8647280198a88c012912.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.13.4"
+					},
+					"parentIndex" : 3,
+					"projectIndex" : 0,
+					"source" : "tools/WPA",
+					"targetIndexes" : 
+					[
+						9
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4
+					],
+					"name" : "SVF",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8,
+						9
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 2,
+					"id" : "Cudd::@8223961d242b58a6bed5",
+					"jsonFile" : "target-Cudd-Debug-c1fc0fcb4c0b7e401cbd.json",
+					"name" : "Cudd",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "Svf::@306ed2d68c6501e8728f",
+					"jsonFile" : "target-Svf-Debug-a42b35793348524ce6f3.json",
+					"name" : "Svf",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "acc_gen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-acc_gen-Debug-262e6647ee1b86f24336.json",
+					"name" : "acc_gen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "install-Cudd::@8223961d242b58a6bed5",
+					"jsonFile" : "target-install-Cudd-Debug-869881498031098f7f24.json",
+					"name" : "install-Cudd",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "install-Cudd-stripped::@8223961d242b58a6bed5",
+					"jsonFile" : "target-install-Cudd-stripped-Debug-f75ca1ae41ed7cc1b9be.json",
+					"name" : "install-Cudd-stripped",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "install-Svf::@306ed2d68c6501e8728f",
+					"jsonFile" : "target-install-Svf-Debug-b9f1291f8a0c6cf389e2.json",
+					"name" : "install-Svf",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 1,
+					"id" : "install-Svf-stripped::@306ed2d68c6501e8728f",
+					"jsonFile" : "target-install-Svf-stripped-Debug-b8a679fefc47222160b4.json",
+					"name" : "install-Svf-stripped",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "intrinsics_gen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-intrinsics_gen-Debug-99ae7d0fe39e5dd87931.json",
+					"name" : "intrinsics_gen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "omp_gen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-omp_gen-Debug-d3bee291b61aebbba4c4.json",
+					"name" : "omp_gen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "wpa::@be401157497b1a229569",
+					"jsonFile" : "target-wpa-Debug-3852c64b5e4900ff5499.json",
+					"name" : "wpa",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/f/SVFtype/SVF-SVF-2.5/build",
+		"source" : "/home/f/SVFtype/SVF-SVF-2.5"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

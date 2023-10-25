@@ -1,0 +1,391 @@
+FlowSensitiveStruct with type
+namecsplit.0.5.precodegen.bc
+analyze
+updateCallGraph:333
+updateCallGraph444:
+processTime:0.02
+printCTirAliasStats
+total queries: 13864452 
+eval-ctir-aliases 13864452 162174 13702278 0 
+  TOTAL : 13864452
+  MAY   : 162174
+  MAY % : 1.169711e-02
+  NO    : 13702278
+  NO  % : 9.883029e-01
+printCTirAliasStats---------------
+FlowSensitiveStruct with type
+namedate.0.5.precodegen.bc
+analyze
+updateCallGraph:333
+updateCallGraph444:
+analyze
+updateCallGraph:333
+updateCallGraph444:
+processTime:0.2
+printCTirAliasStats
+total queries: 254195192 
+eval-ctir-aliases 254195192 3112150 251083042 0 
+  TOTAL : 254195192
+  MAY   : 3112150
+  MAY % : 1.224315e-02
+  NO    : 251083042
+  NO  % : 9.877568e-01
+printCTirAliasStats---------------
+FlowSensitiveStruct with type
+namedu.0.5.precodegen.bc
+analyze
+updateCallGraph:333
+updateCallGraph444:
+analyze
+updateCallGraph:333
+updateCallGraph444:
+analyze
+updateCallGraph:333
+updateCallGraph444:
+processTime:0.935
+printCTirAliasStats
+total queries: 128697680 
+eval-ctir-aliases 128697680 4363290 124334390 0 
+  TOTAL : 128697680
+  MAY   : 4363290
+  MAY % : 3.390341e-02
+  NO    : 124334390
+  NO  % : 9.660966e-01
+printCTirAliasStats---------------
+FlowSensitiveStruct with type
+nameexpr.0.5.precodegen.bc
+analyze
+updateCallGraph:333
+updateCallGraph444:
+analyze
+updateCallGraph:333
+updateCallGraph444:
+processTime:0.066
+printCTirAliasStats
+total queries: 37730306 
+eval-ctir-aliases 37730306 594070 37136236 0 
+  TOTAL : 37730306
+  MAY   : 594070
+  MAY % : 1.574517e-02
+  NO    : 37136236
+  NO  % : 9.842548e-01
+printCTirAliasStats---------------
+FlowSensitiveStruct with type
+nameginstall.0.5.precodegen.bc
+analyze
+updateCallGraph:333
+updateCallGraph444:
+analyze
+updateCallGraph:333
+updateCallGraph444:
+processTime:0.226
+printCTirAliasStats
+total queries: 216516510 
+eval-ctir-aliases 216516510 1824750 214691760 0 
+  TOTAL : 216516510
+  MAY   : 1824750
+  MAY % : 8.427764e-03
+  NO    : 214691760
+  NO  % : 9.915722e-01
+printCTirAliasStats---------------
+FlowSensitiveStruct with type
+namels.0.5.precodegen.bc
+analyze
+updateCallGraph:333
+updateCallGraph444:
+analyze
+updateCallGraph:333
+updateCallGraph444:
+processTime:0.159
+printCTirAliasStats
+total queries: 183697362 
+eval-ctir-aliases 183697362 1139874 182557488 0 
+  TOTAL : 183697362
+  MAY   : 1139874
+  MAY % : 6.205173e-03
+  NO    : 182557488
+  NO  % : 9.937948e-01
+printCTirAliasStats---------------
+FlowSensitiveStruct with type
+namemv.0.5.precodegen.bc
+analyze
+updateCallGraph:333
+updateCallGraph444:
+analyze
+updateCallGraph:333
+updateCallGraph444:
+processTime:0.778
+printCTirAliasStats
+total queries: 153871620 
+eval-ctir-aliases 153871620 4897718 148973902 0 
+  TOTAL : 153871620
+  MAY   : 4897718
+  MAY % : 3.182990e-02
+  NO    : 148973902
+  NO  % : 9.681701e-01
+printCTirAliasStats---------------
+FlowSensitiveStruct with type
+namenl.0.5.precodegen.bc
+analyze
+updateCallGraph:333
+updateCallGraph444:
+processTime:0.009
+printCTirAliasStats
+total queries: 6525470 
+eval-ctir-aliases 6525470 130760 6394710 0 
+  TOTAL : 6525470
+  MAY   : 130760
+  MAY % : 2.003840e-02
+  NO    : 6394710
+  NO  % : 9.799616e-01
+printCTirAliasStats---------------
+FlowSensitiveStruct with type
+nameptx.0.5.precodegen.bc
+analyze
+updateCallGraph:333
+updateCallGraph444:
+analyze
+updateCallGraph:333
+updateCallGraph444:
+processTime:0.042
+printCTirAliasStats
+total queries: 20308542 
+eval-ctir-aliases 20308542 167664 20140878 0 
+  TOTAL : 20308542
+  MAY   : 167664
+  MAY % : 8.255836e-03
+  NO    : 20140878
+  NO  % : 9.917442e-01
+printCTirAliasStats---------------
+FlowSensitiveStruct with type
+namesort.0.5.precodegen.bc
+analyze
+updateCallGraph:333
+updateCallGraph444:
+analyze
+updateCallGraph:333
+updateCallGraph444:
+processTime:0.168
+printCTirAliasStats
+total queries: 189351360 
+eval-ctir-aliases 189351360 1625540 187725820 0 
+  TOTAL : 189351360
+  MAY   : 1625540
+  MAY % : 8.584781e-03
+  NO    : 187725820
+  NO  % : 9.914152e-01
+printCTirAliasStats---------------
+FlowSensitiveStruct with type
+nametac.0.5.precodegen.bc
+analyze
+updateCallGraph:333
+updateCallGraph444:
+processTime:0.016
+printCTirAliasStats
+total queries: 6029480 
+eval-ctir-aliases 6029480 92908 5936572 0 
+  TOTAL : 6029480
+  MAY   : 92908
+  MAY % : 1.540896e-02
+  NO    : 5936572
+  NO  % : 9.845910e-01
+printCTirAliasStats---------------
+FlowSensitiveStruct with type
+nametouch.0.5.precodegen.bc
+analyze
+updateCallGraph:333
+updateCallGraph444:
+analyze
+updateCallGraph:333
+updateCallGraph444:
+processTime:0.183
+printCTirAliasStats
+total queries: 208643580 
+eval-ctir-aliases 208643580 2895516 205748064 0 
+  TOTAL : 208643580
+  MAY   : 2895516
+  MAY % : 1.387781e-02
+  NO    : 205748064
+  NO  % : 9.861222e-01
+printCTirAliasStats---------------
+
+
+
+
+
+
+
+
+
+
+
+
+f@Frank:~/SVFtype/SVF-SVF-2.5/Debug-build/bin/test12$ ./myrun.sh 
+FlowSensitiveStruct with type
+namecsplit.0.5.precodegen.bc
+castinstCount:299
+instCount:7375
+castinstCount:299
+instCount:7375
+processTime:0.03
+structNum:84
+structnotFlatMost:438
+structFlatMost:438
+moreThanOneCount:8
+mostType:2
+baseObjNum:789
+---------------------------------
+FlowSensitiveStruct with type
+namedate.0.5.precodegen.bc
+castinstCount:1595
+instCount:26151
+castinstCount:1595
+instCount:26151
+processTime:0.196
+structNum:152
+structnotFlatMost:2000
+structFlatMost:2000
+moreThanOneCount:24
+mostType:6
+baseObjNum:1689
+---------------------------------
+FlowSensitiveStruct with type
+namedu.0.5.precodegen.bc
+castinstCount:942
+instCount:21811
+castinstCount:942
+instCount:21811
+processTime:1.027
+structNum:132
+structnotFlatMost:1024
+structFlatMost:1024
+moreThanOneCount:31
+mostType:6
+baseObjNum:1971
+---------------------------------
+FlowSensitiveStruct with type
+nameexpr.0.5.precodegen.bc
+castinstCount:741
+instCount:12676
+castinstCount:741
+instCount:12676
+processTime:0.072
+structNum:92
+structnotFlatMost:310
+structFlatMost:310
+moreThanOneCount:8
+mostType:4
+baseObjNum:1187
+---------------------------------
+FlowSensitiveStruct with type
+nameginstall.0.5.precodegen.bc
+castinstCount:1352
+instCount:27742
+castinstCount:1352
+instCount:27742
+processTime:0.221
+structNum:137
+structnotFlatMost:4096
+structFlatMost:4096
+moreThanOneCount:30
+mostType:4
+baseObjNum:2588
+---------------------------------
+FlowSensitiveStruct with type
+namels.0.5.precodegen.bc
+castinstCount:1427
+instCount:25851
+castinstCount:1427
+instCount:25851
+processTime:0.174
+structNum:180
+structnotFlatMost:8192
+structFlatMost:8192
+moreThanOneCount:42
+mostType:9
+baseObjNum:2555
+---------------------------------
+FlowSensitiveStruct with type
+namemv.0.5.precodegen.bc
+castinstCount:1043
+instCount:23505
+castinstCount:1043
+instCount:23505
+processTime:0.79
+structNum:139
+structnotFlatMost:1024
+structFlatMost:1024
+moreThanOneCount:38
+mostType:6
+baseObjNum:2400
+---------------------------------
+FlowSensitiveStruct with type
+namenl.0.5.precodegen.bc
+castinstCount:185
+instCount:4892
+castinstCount:185
+instCount:4892
+processTime:0.012
+structNum:68
+structnotFlatMost:443
+structFlatMost:443
+moreThanOneCount:4
+mostType:2
+baseObjNum:532
+---------------------------------
+FlowSensitiveStruct with type
+nameptx.0.5.precodegen.bc
+castinstCount:485
+instCount:8547
+castinstCount:485
+instCount:8547
+processTime:0.031
+structNum:77
+structnotFlatMost:418
+structFlatMost:418
+moreThanOneCount:7
+mostType:4
+baseObjNum:723
+---------------------------------
+FlowSensitiveStruct with type
+namesort.0.5.precodegen.bc
+castinstCount:1213
+instCount:24848
+castinstCount:1213
+instCount:24848
+processTime:0.193
+structNum:149
+structnotFlatMost:4096
+structFlatMost:4096
+moreThanOneCount:13
+mostType:5
+baseObjNum:2081
+---------------------------------
+FlowSensitiveStruct with type
+nametac.0.5.precodegen.bc
+castinstCount:184
+instCount:4880
+castinstCount:184
+instCount:4880
+processTime:0.011
+structNum:63
+structnotFlatMost:8192
+structFlatMost:8192
+moreThanOneCount:5
+mostType:2
+baseObjNum:552
+---------------------------------
+FlowSensitiveStruct with type
+nametouch.0.5.precodegen.bc
+castinstCount:1477
+instCount:22717
+castinstCount:1477
+instCount:22717
+processTime:0.205
+structNum:129
+structnotFlatMost:2000
+structFlatMost:2000
+moreThanOneCount:31
+mostType:6
+baseObjNum:1443
+---------------------------------

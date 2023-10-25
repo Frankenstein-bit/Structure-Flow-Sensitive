@@ -1,0 +1,2 @@
+/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/llvm-ar qc libCudd.a CMakeFiles/Cudd.dir/epd.c.o CMakeFiles/Cudd.dir/st.c.o CMakeFiles/Cudd.dir/util.c.o CMakeFiles/Cudd.dir/mtr.c.o CMakeFiles/Cudd.dir/cuddInt.c.o
+/home/f/llvmlib/clang+llvm-13.0.1-x86_64-linux-gnu-ubuntu-18.04/bin/llvm-ranlib libCudd.a

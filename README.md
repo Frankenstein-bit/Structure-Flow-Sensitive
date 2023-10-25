@@ -1,4 +1,4 @@
-**Structure-Flow-Sensitive Experiment**
+**MTO-SS Experiment**
 
 This project contains all the code and experimental materials needed for the paper titled "Structure-Sensitive Points-to Analysis for Multi-structure Objects". The objective of this experiment is to demonstrate the accuracy of MTO-SS pointer analysis and its additional performance overhead.
 
